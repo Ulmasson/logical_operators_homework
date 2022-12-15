@@ -9,4 +9,4 @@ def main(a,b,c):
         bool: answer
     """
     return a<b<c or a>b>c
-print(main(6,4,5))
+print(main(6,4,1))
